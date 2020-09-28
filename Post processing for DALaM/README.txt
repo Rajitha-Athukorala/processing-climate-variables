@@ -75,7 +75,7 @@ Output
 At the end of this script, you will have a .npy file which can be used for running AEZ.
 
 Help
-Please contact Mr. Thaileng Thol or Rajitha Athukorala from AIT for any inquiries. A brief introductory can be arranged upon request. The scripts can be cloned from the github repository.
+Please contact Mr. Thaileng Thol or Rajitha Athukorala from AIT for any inquiries. A brief introductory can be arranged upon request. The scripts can be cloned from the github https://github.com/Rajitha-Athukorala/processing-climate-variables.git repository.
 
 
 
